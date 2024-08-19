@@ -1,0 +1,48 @@
+
+ROM used:   970/32768 (3%)
+            970/32768 (3%) including unused fragments
+
+            1.1 Average locations per line
+            60.6 Average locations per statement
+
+RAM used:   6/2048 (0%) at main() level
+            22/2048 (1%) worst case
+
+Stack used: 1 worst case (1 in main + 0 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   47    16 100  50hz_pwm.c
+  837     0   0  ..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\18f4550.h
+----- -----
+  884    16 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0    190  10    1   393  3.7  main
+0     42   2    3             @DIV88
+0     56   3    2             @ITOF
+0    620  32   16             @ADDFF
+0     58   3    4             @SFTOI
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               1
+    Statements              16
+    Comments                166
+    Volume (V)              404
+    Difficulty (D)          3.2
+    Effort to implement (E) 1302
+    Time to implement (T)   1 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   1
+    Maintainability (MI)    139
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-07FFE   966  31798  
+
+
+

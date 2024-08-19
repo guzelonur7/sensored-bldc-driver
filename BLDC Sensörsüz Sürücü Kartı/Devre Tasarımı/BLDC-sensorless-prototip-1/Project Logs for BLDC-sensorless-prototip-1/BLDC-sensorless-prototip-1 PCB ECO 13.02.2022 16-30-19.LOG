@@ -1,0 +1,49 @@
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Component: Designator=TP6(Test Point)
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP8(Test Point)
+Added Component: Designator=TP9(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Component: Designator=TP11(Test Point)
+Added Component: Designator=TP12(Test Point)
+Added Component: Designator=TP13(Test Point)
+Added Component: Designator=TP14(Test Point)
+Added Component: Designator=TP15(Test Point)
+Added Component: Designator=TP16(Test Point)
+Added Pin To Net: NetName=NetD1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetD4_1 Pin=TP2-1
+Added Pin To Net: NetName=NetD6_1 Pin=TP3-1
+Added Pin To Net: NetName=NetD9_1 Pin=TP4-1
+Added Pin To Net: NetName=NetD11_1 Pin=TP5-1
+Added Pin To Net: NetName=NetD14_1 Pin=TP6-1
+Added Pin To Net: NetName=NetC4_2 Pin=TP7-1
+Added Pin To Net: NetName=NetTP8_1 Pin=TP8-1
+Added Pin To Net: NetName=NetTP9_1 Pin=TP9-1
+Added Pin To Net: NetName=NetTP10_1 Pin=TP10-1
+Added Pin To Net: NetName=NetTP11_1 Pin=TP11-1
+Added Pin To Net: NetName=NetTP12_1 Pin=TP12-1
+Added Pin To Net: NetName=NetTP13_1 Pin=TP13-1
+Added Pin To Net: NetName=NetC3_2 Pin=TP14-1
+Added Pin To Net: NetName=NetC2_2 Pin=TP15-1
+Added Pin To Net: NetName=NetC1_2 Pin=TP16-1
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP1 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP2 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP3 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP4 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP5 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP6 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP7 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP8 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP9 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP10 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP11 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP12 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP13 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP14 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP15 TEST POINT
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component TP16 TEST POINT
+Added Room: Name=BLDC-sensorless-prototip-1

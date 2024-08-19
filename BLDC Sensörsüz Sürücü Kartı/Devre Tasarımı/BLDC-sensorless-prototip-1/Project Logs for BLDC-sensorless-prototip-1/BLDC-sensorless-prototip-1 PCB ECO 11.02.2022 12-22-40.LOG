@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=BLDC-sensorless-prototip-1 Member=A-HIGH DRAIN
+Change Component Designator: OldDesignator=A-HIGH NewDesignator=Q1
+Added Pin To Net: NetName=NetD11_1 Pin=R19-2
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component Q1 IRFZ44-N
+Added Room: Name=BLDC-sensorless-prototip-1

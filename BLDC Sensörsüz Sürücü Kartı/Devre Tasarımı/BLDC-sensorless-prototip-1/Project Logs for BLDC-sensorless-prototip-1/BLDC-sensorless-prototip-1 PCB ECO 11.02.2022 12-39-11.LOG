@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=FAZ-B Pin=Q3-3
+Added Pin To Net: NetName=FAZ-B Pin=Q4-2
+Added Pin To Net: NetName=FAZ-C Pin=Q5-3
+Added Pin To Net: NetName=FAZ-C Pin=Q6-2
+Added Room: Name=BLDC-sensorless-prototip-1

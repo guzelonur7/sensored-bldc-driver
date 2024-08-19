@@ -1,0 +1,13 @@
+Added Component: Designator=U1(ARDUINO NANO)
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetC10_1 Pin=U1-9
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetC7_1 Pin=U1-19
+Added Pin To Net: NetName=NetC4_1 Pin=U1-20
+Added Pin To Net: NetName=NetC1_1 Pin=U1-21
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component U1 ARDUINO NANO
+Added Room: Name=BLDC-sensorless-prototip-1

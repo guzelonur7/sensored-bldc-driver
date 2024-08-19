@@ -1,0 +1,32 @@
+#include<16f877a.h>
+#use delay(clock=4MHz)
+#fuses xt,nolvp,nobrownout,
+#define PWM_MIN 1000;
+
+unsigned int deger=0;
+
+
+void main(){
+
+set_tris_a(0x01);
+set_tris_c(0x00);
+output_c(0x00);
+setup_adc(ADC_CLOCK_DIV_2);
+setup_adc_ports(AN0);
+setup_ccp2(CCP_PWM);
+setup_timer_2(T2_DIV_BY_16,249,5) ; // 50hz pwm 
+set_pwm2_duty(1.1);
+
+
+
+
+   while(true){
+      
+      set_adc_channel(0);
+      delay_us(50);
+      deger=read_adc();
+      
+   
+   }
+
+}

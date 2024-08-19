@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Member From Class: ClassName=BLDC-sensorless-prototip-1 Member=*
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetTP8_1 Pin=U1-12
+Added Pin To Net: NetName=NetTP8_1 Pin=U2-2
+Added Net: Name=NetTP8_1
+Added Pin To Net: NetName=NetTP9_1 Pin=U1-13
+Added Pin To Net: NetName=NetTP9_1 Pin=U3-2
+Added Net: Name=NetTP9_1
+Added Pin To Net: NetName=NetTP10_1 Pin=U1-14
+Added Pin To Net: NetName=NetTP10_1 Pin=U4-2
+Added Net: Name=NetTP10_1
+Added Pin To Net: NetName=NetTP11_1 Pin=U1-8
+Added Pin To Net: NetName=NetTP11_1 Pin=U2-3
+Added Net: Name=NetTP11_1
+Added Pin To Net: NetName=NetTP12_1 Pin=U1-7
+Added Pin To Net: NetName=NetTP12_1 Pin=U3-3
+Added Net: Name=NetTP12_1
+Added Pin To Net: NetName=NetTP13_1 Pin=U1-6
+Added Pin To Net: NetName=NetTP13_1 Pin=U4-3
+Added Net: Name=NetTP13_1
+Added Room: Name=BLDC-sensorless-prototip-1

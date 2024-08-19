@@ -1,0 +1,21 @@
+#include<16f877a.h>
+#use delay(clock=4MHz)
+#fuses xt,nolvp,nobrownout,
+
+void main(){
+
+set_tris_a(0x01);
+set_tris_c(0x00);
+output_c(0x00);
+setup_adc(ADC_CLOCK_DIV_2);
+setup_adc_ports(AN0);
+
+
+
+   while(true){
+      
+      
+   
+   }
+
+}

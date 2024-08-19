@@ -1,0 +1,4 @@
+Added Component: Designator=*(Test Point)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Member To Class: ClassName=BLDC-sensorless-prototip-1 Member=Component * TEST POINT
+Added Room: Name=BLDC-sensorless-prototip-1
