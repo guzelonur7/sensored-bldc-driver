@@ -1,3 +1,9 @@
 Record=TopLevelDocument|FileName=Sensored BLDC Driver PCB.SchDoc|SheetNumber=1
+<<<<<<< HEAD
 Record=SheetSymbol|SourceDocument=Sensored BLDC Driver PCB.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MicroController.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MicroController.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+=======
+Record=SheetSymbol|SourceDocument=Sensored BLDC Driver PCB.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Inverter.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Inverter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sensored BLDC Driver PCB.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Inputs.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Inputs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sensored BLDC Driver PCB.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MicroController.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=MicroController.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+>>>>>>> f6a99b61eb1436021213b80f0839eb3af2777d3e
 Record=SheetSymbol|SourceDocument=Sensored BLDC Driver PCB.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
